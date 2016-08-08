@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScssLintProjectComponent">
+    <option name="scssLintExecutable" value="C:\Users\Raoul\Downloads\scss-lint-plugin\lib\yamlbeans-1.09.jar" />
+    <option name="treatAllIssuesAsWarnings" value="true" />
+    <option name="pluginEnabled" value="true" />
+  </component>
+</project>

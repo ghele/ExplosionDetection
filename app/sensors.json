@@ -1,0 +1,152 @@
+{
+  "s1": {
+    "label": "Sensor 1",
+    "x-axis": 90,
+    "y-axis": 15
+  },
+  "s2": {
+    "label": "Sensor 2",
+    "x-axis": 240,
+    "y-axis": 15
+  },
+  "s3": {
+    "label": "Sensor 3",
+    "x-axis": 390,
+    "y-axis": 15
+  },
+  "s4": {
+    "label": "Sensor 4",
+    "x-axis": 540,
+    "y-axis": 15
+  },
+  "s5": {
+    "label": "Sensor 5",
+    "x-axis": 690,
+    "y-axis": 15
+  },
+  "s6": {
+    "label": "Sensor 6",
+    "x-axis": 840,
+    "y-axis": 15
+  },
+  "s7": {
+    "label": "Sensor 7",
+    "x-axis": 90,
+    "y-axis": 165
+  },
+  "s8": {
+    "label": "Sensor 8",
+    "x-axis": 240,
+    "y-axis": 165
+  },
+  "s9": {
+    "label": "Sensor 9",
+    "x-axis": 390,
+    "y-axis": 165
+  },
+  "s10": {
+    "label": "Sensor 10",
+    "x-axis": 540,
+    "y-axis": 165
+  },
+  "s11": {
+    "label": "Sensor 11",
+    "x-axis": 690,
+    "y-axis": 165
+  },
+  "s12": {
+    "label": "Sensor 12",
+    "x-axis": 840,
+    "y-axis": 165
+  },
+  "s13": {
+    "label": "Sensor 13",
+    "x-axis": 90,
+    "y-axis": 315
+  },
+  "s14": {
+    "label": "Sensor 14",
+    "x-axis": 240,
+    "y-axis": 315
+  },
+  "s15": {
+    "label": "Sensor 15",
+    "x-axis": 390,
+    "y-axis": 315
+  },
+  "s16": {
+    "label": "Sensor 16",
+    "x-axis": 540,
+    "y-axis": 315
+  },
+  "s17": {
+    "label": "Sensor 17",
+    "x-axis": 690,
+    "y-axis": 315
+  },
+  "s18": {
+    "label": "Sensor 18",
+    "x-axis": 840,
+    "y-axis": 315
+  },
+  "s19": {
+    "label": "Sensor 19",
+    "x-axis": 90,
+    "y-axis": 465
+  },
+  "s20": {
+    "label": "Sensor 20",
+    "x-axis": 240,
+    "y-axis": 465
+  },
+  "s21": {
+    "label": "Sensor 21",
+    "x-axis": 390,
+    "y-axis": 465
+  },
+  "s22": {
+    "label": "Sensor 22",
+    "x-axis": 540,
+    "y-axis": 465
+  },
+  "s23": {
+    "label": "Sensor 23",
+    "x-axis": 690,
+    "y-axis": 465
+  },
+  "s24": {
+    "label": "Sensor 24",
+    "x-axis": 840,
+    "y-axis": 465
+  },
+  "s25": {
+    "label": "Sensor 25",
+    "x-axis": 90,
+    "y-axis": 615
+  },
+  "s26": {
+    "label": "Sensor 26",
+    "x-axis": 240,
+    "y-axis": 615
+  },
+  "s27": {
+    "label": "Sensor 27",
+    "x-axis": 390,
+    "y-axis": 615
+  },
+  "s28": {
+    "label": "Sensor 28",
+    "x-axis": 540,
+    "y-axis": 615
+  },
+  "s29": {
+    "label": "Sensor 29",
+    "x-axis": 690,
+    "y-axis": 615
+  },
+  "s30": {
+    "label": "Sensor 30",
+    "x-axis": 840,
+    "y-axis": 615
+  }
+}
