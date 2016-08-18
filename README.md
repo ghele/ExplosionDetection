@@ -43,9 +43,9 @@ A sensor is notified if it detects a sound intensity higher or equal to 80 dB. I
 The 30 sound detection sensors are placed such a way that each four are forming a square. The position of the explosion is determined based on the geometry of this rectangular form. 
 The first four sensors that detect the explosion represent the square inside which the explosion took place. Based on the time differences between the moments that each of the four sensors was notified, four cases can be distinguished:
 
-a.) if the time differences are approximately equal, then the explosion took place in the center of the square
-b.) if two sensors detected the explosion approximately in the same time and after a considerable amount of time the other two sensors were notified, the explosion took place somewhere on one of the perpendiculars of the square
-c.) if one sensor was notified first and then (after a considerable amount of time) other two sensors detected the explosion, the casualty took place somewhere on of the diagonals of the square
+a.) if the time differences are approximately equal, then the explosion took place in the center of the square <br/>
+b.) if two sensors detected the explosion approximately in the same time and after a considerable amount of time the other two sensors were notified, the explosion took place somewhere on one of the perpendiculars of the square <br/>
+c.) if one sensor was notified first and then (after a considerable amount of time) other two sensors detected the explosion, the casualty took place somewhere on of the diagonals of the square <br/>
 d.) if the data obtained indicates that we are not in any of the previous cases, the explosion happened in one of the four remaining "triangles"
 
 Based on one of the previously mentioned situations, a radius with different size will appear around the first three notified sensors (the first sensors that detected the explosion). In order to obtain a better precision, the first three cases were divided in other three subcases each of them. Also, in order to cover a bigger area intervals (approximations, assumed errors) were used when the time differences were compared. 
