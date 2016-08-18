@@ -4,7 +4,7 @@ The project is a distributed web application implemented using the popular Pytho
 
 ### Installation
 
-The project can be started from the command prompt or using an IDE, after installing some necessary Python libraries: *Flask*, *eventlet*, *socketio* and *zmq*. The dependencies can be installed using *pip*:
+The project can be started from the command prompt or using an IDE, after installing some necessary Python libraries: *Flask*, *eventlet*, *flask-socketio* and *zmq*. The dependencies can be installed using *pip*:
 
 ```sh
 $ pip install <package_name>
