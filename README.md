@@ -23,7 +23,7 @@ $ python project.py
 When the server is properly running the user has to see the GUI from *Figure 1*:
 
 <p align="center">
-  <img src="https://github.com/ghele/ExplosionDetectionApplication/blob/master/captures/GUI.PNG" align="middle"></img>
+  <img src="https://github.com/ghele/ExplosionDetection/blob/master/captures/GUI.PNG" align="middle"></img>
 </p>
 *<p align="center">Figure 1. GUI</p>*
 
@@ -34,7 +34,7 @@ the bidimensional coordinates of the explosion, the intensities and moments with
 A sensor is notified if it detects a sound intensity higher or equal to 80 dB. In this case, the specific sensor becomes red. When a minimum number of four sensors detects the explosion, the process of determination of the possible area begins. In the moment that the button from the GUI becomes active, the approximate position of the catastrophe was determined and can be seen by "pressing" (clicking on) it, as in *Figure 2*:
 
 <p align="center">
-  <img src="https://github.com/ghele/ExplosionDetectionApplication/blob/master/captures/explosion-detection.PNG"/>
+  <img src="https://github.com/ghele/ExplosionDetection/blob/master/captures/explosion-detection.PNG"/>
 </p>
 *<p align="center">Figure 2. Explosion position determination</p>*
 
